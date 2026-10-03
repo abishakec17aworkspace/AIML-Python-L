@@ -139,7 +139,6 @@ order_id,game_name,platform,region,genre,country,purchase_date,units_sold,unit_p
 141,The Witcher 3,Nintendo Switch,Asia,Sports,Canada,2025-01-15,95,9.99,25,711.79,4.0,174.0,26,19,Credit Card
 142,GTA V,Nintendo Switch,Oceania,Sandbox,Canada,2026-06-20,1928,29.99,0,57820.72,4.7,78.1,29,24,UPI
 143,Elden Ring,Nintendo Switch,North America,Adventure,Japan,2025-03-22,2302,19.99,20,36813.58,4.1,14.2,45,15,PayPal
-144,Cyberpunk 2077,Nintendo Switch,Asia,Sandbox,USA,2025-01-15,1389,49.99,20,,4.5,36.6,45,13,Credit Card
 145,Minecraft,Xbox Series X,South America,Adventure,Japan,2026-03-14,1872,19.99,5,35550.22,3.7,110.7,23,13,Wallet
 146,Hades II,Nintendo Switch,Oceania,Shooter,Japan,2025-01-15,1946,69.99,0,136200.54,3.7,121.6,39,19,Wallet
 147,The Witcher 3,Xbox Series X,Oceania,Adventure,Germany,2025-01-15,933,59.99,0,55970.67,4.2,31.5,37,5,Wallet
@@ -173,11 +172,9 @@ order_id,game_name,platform,region,genre,country,purchase_date,units_sold,unit_p
 175,Fortnite,Nintendo Switch,Oceania,Racing,Australia,2026-03-14,1472,29.99,15,37523.49,3.7,159.0,42,4,PayPal
 176,Red Dead Redemption 2,Xbox Series X,South America,Action,India,2025-09-18,2305,69.99,10,145194.25,4.5,3.9,39,10,UPI
 177,Valorant,Nintendo Switch,Oceania,Sandbox,India,2026-03-14,1007,39.99,20,32215.94,3.5,148.1,44,15,PayPal
-178,Minecraft,Nintendo Switch,Europe,Adventure,USA,2026-06-20,241,49.99,0,,4.7,14.3,16,25,PayPal
 179,Hades II,PlayStation 5,North America,Racing,Australia,2025-01-15,619,9.99,10,5565.43,4.0,67.8,43,22,Credit Card
 180,Apex Legends,Nintendo Switch,North America,Action,Brazil,"Jun 10, 2025",0,59.99,15,110600.56,4.1,52.3,45,23,Credit Card
 181,Forza Horizon 5,PC,Oceania,RPG,Canada,2026-06-20,988,19.99,15,16787.6,4.6,48.9,38,3,Debit Card
-182,Baldur's Gate 3,PlayStation 5,Europe,Shooter,USA,2025-06-10,331,59.99,0,,3.2,68.9,43,2,Credit Card
 183,The Witcher 3,Nintendo Switch,Asia,Adventure,USA,2025-03-22,391,49.99,0,19546.09,3.5,162.3,43,9,UPI
 184,Forza Horizon 5,PC,Europe,Sandbox,Japan,2025-06-10,1289,9.99,10,11589.4,4.2,135.7,38,3,Wallet
 185,Valorant,Nintendo Switch,Oceania,Shooter,Canada,2025-01-15,1573,69.99,5,104589.56,4.6,124.4,18,17,Credit Card
@@ -222,7 +219,6 @@ order_id,game_name,platform,region,genre,country,purchase_date,units_sold,unit_p
 225,Valorant,PC,North America,Sandbox,Brazil,2025-03-22,1631,49.99,15,69303.64,0.0,90.7,39,14,Wallet
 226,Apex Legends,PlayStation 5,Asia,Action,UK,2026-01-05,1270,9.99,10,11418.57,4.9,28.8,33,13,Debit Card
 227,EA Sports FC 25,PlayStation 5,North America,RPG,India,2025-03-22,354,39.99,0,14156.46,3.9,110.0,32,22,Credit Card
-228,EA Sports FC 25,PlayStation 5,North America,RPG,UK,2025-01-15,2034,29.99,15,,3.3,23.7,30,24,UPI
 229,Helldivers 2,Nintendo Switch,Asia,Adventure,India,2026-03-14,262,29.99,0%,7857.38,4.0,92.4,16,16,PayPal
 230,GTA V,PC,Oceania,Racing,Australia,2026-03-14,473,19.99,0,9455.27,3.1,155.5,28,2,Debit Card
 231,Forza Horizon 5,PlayStation 5,Europe,Sandbox,UK,2026-03-14,145,49.99,25,5436.41,3.4,45.4,33,9,Credit Card
@@ -232,7 +228,6 @@ order_id,game_name,platform,region,genre,country,purchase_date,units_sold,unit_p
 235,Cyberpunk 2077,PlayStation 5,Oceania,RPG,USA,2025-09-18,1720,39.99,0,68782.8,4.9,26.5,30,3,Wallet
 236,Fortnite,Xbox Series X,South America,Racing,USA,2026-06-20,348,49.99,0,17396.52,4.0,115.1,38,3,PayPal
 237,Valorant,Xbox Series X,Asia,Sandbox,Japan,2025-09-18,1291,69.99,25,67767.82,4.4,132.6,33,15,Credit Card
-238,Valorant,PlayStation 5,Oceania,Action,Canada,2025-09-18,637,9.99,5,,3.9,57.2,20,18,Debit Card
 239,GTA V,Nintendo Switch,Asia,Sandbox,Canada,2025-06-10,492,9.99,5,4669.33,4.6,55.5,15,7,Credit Card
 240,EA Sports FC 25,PlayStation 5,Asia,Sports,Australia,2025-09-18,2104,9.99,15,17866.12,3.5,178.3,14,13,Credit Card
 241,The Witcher 3,PC,Europe,Action,UK,2026-01-05,49,9.99,10,440.56,3.3,148.4,36,22,Credit Card
@@ -242,5 +237,4 @@ order_id,game_name,platform,region,genre,country,purchase_date,units_sold,unit_p
 245,Helldivers 2,PC,South America,Sandbox,Japan,2025-06-10,1471,39.99,50,29412.65,3.7,102.3,33,13,Credit Card
 246,Red Dead Redemption 2,PlayStation 5,,Sandbox,UK,"Sep 18, 2025",1151,9.99,50,5749.24,4.1,138.3,27,6,PayPal
 247,GTA V,PC,Europe,Adventure,USA,2026-03-14,1591,29.99,5,45328.39,3.4,107.1,35,19,Wallet
-248,Baldur's Gate 3,PlayStation 5,Oceania,RPG,Germany,2025-01-15,2017,49.99,15,,3.4,7.8,16,8,Wallet
 249,The Witcher 3,PC,Asia,Adventure,USA,2025-06-10,826,69.99,5,54921.15,3.7,32.8,33,2,Wallet

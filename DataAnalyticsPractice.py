@@ -34,8 +34,14 @@ df = df.dropna(subset="game_name")
 
 # df["Game_Name"]=df["Game_Name"].replace("",pd.NA)
 # print(df["Game_Name"])
+# converting the Revenue_usd to proper data
+df["revenue_usd"] = df["revenue_usd"].astype(str).str.replace("$","",regex=False).str.replace(",","",regex=False)
+df["revenue_usd"] = pd.to_numeric(
+    df["revenue_usd"],
+    errors="coerce"
+)
+
 df.to_csv("newsetGameData.csv",index=False)
 
-print(df)
 
 
