@@ -1,0 +1,259 @@
+Order_ID,Game_Name,Platform,Region,Genre,Country,Purchase_Date,Units_Sold,Unit_Price_USD,Discount_Percent,Revenue_USD,Player_Rating,Playtime_Hours,Player_Age,Sessions_Per_Week,Payment_Method
+1,Call of Duty: MWIII,PC,NA,Racing,Brazil,2025-01-15,250000,19.99,10,20275.86,3.3,19.3,18,19,credit card
+2,Cyberpunk 2077,playstation 5,Europe,Adventure,Australia,2026-01-05,2466,9.99,10,22171.81,4.4,126.5,39,8,CC
+3,Helldivers 2,Play Station 5,S.A.,Shooter,UK,2026-03-14,1139,19.99,10,20491.75,4.9,61.3,18,13,UPI
+4,Baldur's Gate 3,Xbox series x,north america,Racing,Canada,2025-09-18,1882,49.99,0,94081.18,4.9,68.8,31,21,Credit Card
+5,Elden Ring,PlayStation 5,Asia,Action,Canada,2026-03-14,954,69.99,0,66770.46,3.8,82.2,36,6,PAYPAL
+6,Call of Duty: MWIII,XBOX SERIES X,North America,Adventure,Canada,2025-01-15,701,49.99,10%,31538.69,3.3,68.9,27,22,paypal
+7,Hades II,PC,Asia,Sports,Australia,2026-06-20,1097,9.99,10,9863.13,4.8,102.5,33,7,debit card
+8,Minecraft,Xbox Series X,Europe,RPG,Germany,2025-06-10,2300,49.99,15,97730.45,4.5,77.7,38,12,Wallet
+9,The Witcher 3,PC,North America,Sandbox,Brazil,2026-09-12,450,19.99,5,8545.73,4.6,76.6,17,13,Wallet
+10,GTA V,PC,North America,Racing,India,2026-09-12,2200,69.99,15,130881.3,4.5,61.9,31,14,Credit Card
+11,EA Sports FC 25,Xbox Series X,Oceania,Sandbox,Germany,10/06/2025,732,49.99,0,36592.68,4.7,54.4,45,20,UPI
+12,Helldivers 2,PlayStation 5,Oceania,Sandbox,Germany,2025-01-15,2173,9.99,20,17366.62,4.0,21.0,36,10,PayPal
+13,Forza Horizon 5,PC,North America,Racing,Australia,2025-06-10,1991,69.99,0,139350.09,5.0,96.4,21,5,UPI
+14,Apex Legends,switch,Europe,Adventure,Australia,2025-03-22,824,59.99,15,42017.0,3.8,121.2,36,15,PayPal
+15,Valorant,PC,Asia,Action,UK,2025-01-15,2410,49.99,10,108428.31,4.2,2.3,16,8,UPI
+16,  Cyberpunk 2077  ,PlayStation 5,Asia,Racing,Australia,2026-06-20,1989,19.99,5,37772.1,4.4,158.9,43,8,PayPal
+17,Cyberpunk 2077,PC,south america,Shooter,Brazil,2026-03-14,1735,39.99,50,34691.33,4.7,10.7,19,2,Credit Card
+18,Valorant,PlayStation 5,Europe,Adventure,UK,15/01/2025,1838,19.99,25,27556.21,3.4,83.8,17,15,Wallet
+19,Hades II,PC,North America,Sandbox,India,2026-06-20,969,19.99,25,14527.73,4.0,39.3,38,2,Credit Card
+20,Fortnite,Xbox Series X,South America,Shooter,USA,2026-03-14,1733,59.99,50,51981.33,3.3,54.1,16,19,Credit Card
+21,Elden Ring,switch,Oceania,Sandbox,UK,2025-09-18,2176,19.99,0,43498.24,4.9,15.3,24,3,DebitCard
+22,Cyberpunk 2077,PlayStation 5,Oceania,Adventure,Germany,2026-03-14,163,49.99,0,8148.37,3.8,105.5,33,9,PayPal
+23,GTA V,Nintendo Switch,Europe,Racing,UK,2025-03-22,1229,39.99,20,39318.17,4.9,168.5,13,15,Wallet
+24,Valorant,Xbox Series X,Europe,Shooter,USA,2026-01-05,282,19.99,20,4509.74,3.6,79.4,32,20,Credit Card
+25,Forza Horizon 5,PlayStation 5,Asia,Action,Japan,2026-09-12,439,59.99,5,25018.83,6.5,109.3,34,7,UPI
+26,Forza Horizon 5,PC,North America,Racing,  Japan  ,2025-06-10,1735,69.99,15,103217.75,3.1,60.7,21,21,Debit Card
+27,Apex Legends,Nintendo Switch,Oceania,Action,India,2025-01-15,459,9.99,5,4356.14,4.1,150.4,22,14,UPI
+28,  Red Dead Redemption 2  ,PC,Asia,RPG,India,2025-09-18,1023,59.99,0,61369.77,3.7,101.2,39,20,PayPal
+29,Helldivers 2,PlayStation 5,South America,Action,India,2025-03-22,735,59.99,20,35274.12,4.6,74.7,28,9,Debit Card
+30,Hades II,PC,South America,RPG,USA,2025-09-18,818,69.99,50,28625.91,3.7,147.9,27,8,Debit Card
+31,Red Dead Redemption 2,Xbox Series X,North America,Sandbox,UK,2026-01-05,1144,29.99,25,25731.42,4.4,152.0,34,1,PayPal
+32,Baldur's Gate 3,Xbox Series X,North America,Action,Brazil,2025-09-18,2444,39.99,20,78188.45,4.5,57.1,45,4,UPI
+33,Elden Ring,Nintendo Switch,North America,Adventure,Canada,2025-03-22,2206,59.99,10,119104.15,3.7,13.5,34,20,UPI
+34,Apex Legends,Xbox Series X,South America,Shooter,India,2026-01-05,1649,59.99,15,84084.98,4.1,35.3,37,22,Debit Card
+35,,PC,Asia,Shooter,Australia,2025-06-10,-10,39.99,20,27545.11,3.9,80.1,26,17,Credit Card
+36,GTA V,Xbox Series X,North America,Sandbox,Germany,2026-09-12,963,59.99,15,49104.81,3.4,36.6,14,2,Wallet
+37,Hades II,PC,South America,Sports,UK,2026-06-20,2358,19.99,25,35352.32,4.0,44.7,13,25,PayPal
+38,Minecraft,Nintendo Switch,North America,Adventure,Australia,2026/06/20,1021,69.99,0,71459.79,3.9,144.5,33,25,Wallet
+39,The Witcher 3,PlayStation 5,South America,Sports,Germany,2026-01-05,1062,69.99,10,66896.44,4.7,50.6,44,21,Debit Card
+40,Cyberpunk 2077,Xbox Series X,Europe,Shooter,Germany,2025-03-22,1376,29.99,0,"$41,266.24",3.3,42.4,22,23,Debit Card
+41,,Xbox Series X,Oceania,Sports,Brazil,2026-09-12,1704,9.99,10,15320.66,4.7,70.7,14,25,Credit Card
+42,Red Dead Redemption 2,Xbox Series X,South America,Sandbox,Brazil,2026-03-14,1717,49.99,10,77249.55,4.0,49.9,44,1,Debit Card
+43,EA Sports FC 25,PlayStation 5,South America,RPG,Brazil,2025-06-10,2188,9.99,25,16393.59,4.2,119.7,18,21,Debit Card
+44,Minecraft,PC,Asia,Sports,Brazil,2026-01-05,1341,19.99,50,13403.29,3.7,137.3,37,9,Credit Card
+45,The Witcher 3,PC,,Action,,2025-01-15,1434,19.99,0,28665.66,4.6,117.7,14,8,Wallet
+46,Minecraft,PlayStation 5,Europe,Sports,UK,2025-06-10,469,49.99,10,"$21,100.78",3.9,46.9,36,6,UPI
+47,Cyberpunk 2077,PC,Asia,Adventure,Japan,2025-03-22,1538,39.99,10,55354.16,3.2,124.6,28,4,Wallet
+48,Helldivers 2,PC,Asia,Adventure,Australia,2025-03-22,1755,59.99,20,84225.96,3.1,116.9,13,14,Debit Card
+49,Red Dead Redemption 2,Nintendo Switch,Europe,Sports,Brazil,2026-01-05,722,59.99,15,36815.86,4.2,165.6,43,15,UPI
+50,Hades II,PlayStation 5,North America,Shooter,  Australia  ,2026-03-14,1847,19.99,50,18460.76,4.1,120.6,34,1,PayPal
+51,The Witcher 3,PlayStation 5,Asia,Sandbox,USA,2025-09-18,1059,29.99,15,26995.5,4.8,126.5,30,18,Credit Card
+52,Valorant,Nintendo Switch,South America,  Adventure  ,Japan,18/09/2025,985,59.99,50,29545.08,4.3,88.9,14,3,Debit Card
+53,EA Sports FC 25,PlayStation 5,Asia,Racing,Australia,2026-01-05,2383,29.99,50,35733.08,4.1,62.5,34,12,UPI
+54,GTA V,PlayStation 5,North America,Racing,Germany,2026-09-12,789,29.99,0,23662.11,4.5,171.2,24,7,UPI
+55,EA Sports FC 25,Xbox Series X,North America,Sandbox,USA,2025-01-15,796,29.99,10,21484.84,3.7,55.1,21,9,Wallet
+56,GTA V,PlayStation 5,South America,Action,Japan,2026-09-12,-500,49.99,15,2167.07,3.9,79.8,24,2,Credit Card
+57,Hades II,PC,South America,Sports,Germany,2025-03-22,304,49.99,0,15196.96,3.3,146.2,32,3,Wallet
+58,Helldivers 2,Nintendo Switch,Oceania,Adventure,USA,2025-03-22,925,69.99,25,48555.56,,80.2,40,10,PayPal
+59,Call of Duty: MWIII,PlayStation 5,Asia,Racing,Australia,2026-09-12,333,19.99,10,5991.0,3.3,14.4,13,14,UPI
+60,Elden Ring,PlayStation 5,Asia,Racing,Germany,2026-06-20,1159,59.99,50,34764.21,3.1,42.8,29,21,Credit Card
+61,Apex Legends,PlayStation 5,Europe,Shooter,UK,2026-09-12,583,9.99,0,5824.17,3.3,56.1,31,15,UPI
+62,EA Sports FC 25,Nintendo Switch,Asia,Adventure,Canada,2026-01-05,2212,39.99,50,44228.94,3.2,8.1,40,24,Credit Card
+63,Cyberpunk 2077,PlayStation 5,Oceania,Adventure,Australia,2026-01-05,85,69.99,15,5056.78,4.2,137.6,24,16,PayPal
+64,Baldur's Gate 3,Nintendo Switch,South America,Action,Brazil,2026-09-12,1926,29.99,25,43320.56,3.7,121.0,23,11,UPI
+65,Call of Duty: MWIII,Nintendo Switch,Oceania,Action,USA,2026-09-12,1863,9.99,20,14889.1,3.5,21.7,38,17,Debit Card
+66,Elden Ring,PlayStation 5,Oceania,Shooter,Australia,2026-09-12,2042,59.99,50,61249.79,4.5,37.4,21,10,Credit Card
+67,Elden Ring,PlayStation 5,Europe,Shooter,UK,2025-06-10,2257,9.99,25,16910.57,3.2,178.6,20,15,Debit Card
+68,Forza Horizon 5,Xbox Series X,Oceania,Racing,Germany,2025-06-10,1120,39.99,50,22394.4,5.0,44.6,22,13,Credit Card
+69,GTA V,Nintendo Switch,Asia,Sandbox,Australia,2026-09-12,2080,29.99,0,62379.2,3.6,54.4,44,5,UPI
+70,Red Dead Redemption 2,Nintendo Switch,South America,Shooter,Canada,2026-09-12,773,59.99,10,41735.04,4.1,42.8,39,2,Debit Card
+71,Fortnite,PlayStation 5,South America,Action,Australia,2025-01-15,518,49.99,20,20715.86,4.7,157.5,41,4,PayPal
+72,Fortnite,PlayStation 5,North America,Sports,Australia,2025-01-15,1086,29.99,25,24426.85,4.3,153.5,37,11,Wallet
+73,Cyberpunk 2077,PlayStation 5,Asia,RPG,India,2026-01-05,371,39.99,0,"$14,836.29",4.5,127.0,19,15,Credit Card
+74,Elden Ring,Xbox Series X,North America,Shooter,India,2025-03-22,1469,29.99,25,33041.48,3.3,96.1,24,6,Wallet
+75,Hades II,Nintendo Switch,Oceania,Racing,USA,2026-09-12,987,39.99,5,37496.62,3.5,115.2,42,9,UPI
+76,Call of Duty: MWIII,PlayStation 5,North America,Sports,Japan,2025-09-18,1416,49.99,15,60167.96,4.3,77.0,29,15,Debit Card
+77,Hades II,Nintendo Switch,North America,RPG,Brazil,2026-01-05,1563,49.99,20,62507.5,4.1,178.7,31,1,Credit Card
+78,Baldur's Gate 3,PC,Oceania,Racing,Germany,2026-01-05,2035,69.99,15,121065.2,4.6,42.2,35,8,PayPal
+79,Call of Duty: MWIII,PC,North America,Shooter,  Brazil  ,2025-06-10,1806,9.99,20,14433.55,4.5,17.1,31,11,PayPal
+80,Minecraft,Xbox Series X,Oceania,Adventure,Canada,2025-03-22,1117,69.99,5,74269.89,3.5,148.6,43,10,Debit Card
+81,  Cyberpunk 2077  ,PlayStation 5,Europe,Sandbox,UK,2026-09-12,1628,69.99,20,91154.98,3.2,71.6,29,18,UPI
+82,Call of Duty: MWIII,Xbox Series X,,Sports,Germany,2025-03-22,1522,9.99,10,13684.3,3.9,111.9,33,20,Debit Card
+83,,Xbox Series X,South America,Action,India,2026-06-20,573,9.99,0,5724.27,3.6,89.2,19,8,Debit Card
+84,Red Dead Redemption 2,Nintendo Switch,Oceania,Racing,Canada,"Sep 18, 2025",633,39.99,0,25313.67,4.7,111.2,30,2,Debit Card
+85,  The Witcher 3  ,PlayStation 5,Asia,Action,UK,2025-09-18,1505,49.99,20,60187.96,3.1,50.4,20,15,Wallet
+86,Elden Ring,PC,Asia,RPG,Germany,2025-09-18,516,69.99,10,"$32,503.36",3.1,-5.0,26,19,UPI
+87,Helldivers 2,PlayStation 5,Oceania,Action,USA,2025-06-10,1136,69.99,5,75533.21,5.0,97.7,24,4,Credit Card
+88,Red Dead Redemption 2,PlayStation 5,Oceania,Shooter,UK,2026-09-12,65,19.99,15,1104.45,3.1,133.8,20,24,Debit Card
+89,Helldivers 2,Xbox Series X,Oceania,Adventure,USA,2025-01-15,447,39.99,10,16087.98,4.9,8.8,32,15,Debit Card
+90,Hades II,Nintendo Switch,South America,Racing,India,2026-01-05,443,39.99,50,8857.78,3.1,15.5,22,3,Wallet
+91,Call of Duty: MWIII,Xbox Series X,South America,Adventure,Germany,2026-06-20,2174,29.99,50,32599.13,4.0,78.0,20,21,Debit Card
+92,Forza Horizon 5,PlayStation 5,South America,Shooter,Japan,2026-03-14,1858,39.99,25,55726.07,,56.9,33,22,PayPal
+93,Call of Duty: MWIII,Nintendo Switch,North America,Action,USA,2026-03-14,350,9.99,25,2622.38,3.2,133.2,21,18,Credit Card
+94,Fortnite,Xbox Series X,South America,Sandbox,Australia,2025-09-18,211,29.99,15,5378.71,3.7,104.4,26,5,Credit Card
+95,Red Dead Redemption 2,Xbox Series X,North America,Sandbox,Japan,2025-01-15,1142,49.99,10,51379.72,4.6,152.3,14,20,PayPal
+96,GTA V,Xbox Series X,Asia,Shooter,USA,2025-03-22,26,19.99,5,493.75,4.1,72.7,22,24,Wallet
+97,Valorant,Nintendo Switch,South America,Sports,,2025-06-10,1397,19.99,20,22340.82,3.6,59.1,18,2,Wallet
+98,Elden Ring,PC,Asia,  Sports  ,Canada,2026-06-20,1737,39.99,50,34731.32,3.8,39.6,45,4,Credit Card
+99,GTA V,Nintendo Switch,Oceania,Racing,Japan,2025-09-18,1264,9.99,10,11364.62,3.8,108.3,13,7,PayPal
+100,Helldivers 2,Xbox Series X,Asia,Shooter,Germany,2026-03-14,492,9.99,50,2457.54,4.5,32.4,37,18,Credit Card
+101,Fortnite,PC,South America,Action,UK,2026-06-20,1884,9.99,20,15056.93,4.2,103.6,39,10,Credit Card
+102,Red Dead Redemption 2,PlayStation 5,Oceania,Sports,UK,2026-06-20,1483,9.99,25,11111.38,4.7,44.6,38,17,UPI
+103,EA Sports FC 25,Xbox Series X,Europe,Shooter,India,2025-09-18,689,9.99,0,6883.11,4.1,35.7,35,12,Credit Card
+104,Minecraft,Xbox Series X,Europe,RPG,Australia,2026-03-14,2468,19.99,0,49335.32,3.4,139.3,44,15,UPI
+105,Minecraft,Nintendo Switch,North America,Sports,UK,2026-01-05,1812,59.99,15,92396.6,4.6,106.9,35,17,Debit Card
+106,The Witcher 3,PC,North America,  Shooter  ,USA,2026-09-12,1176,9.99,0,11748.24,4.2,91.8,42,19,Wallet
+107,Call of Duty: MWIII,PlayStation 5,Asia,Adventure,UK,2025-06-10,1949,49.99,5,92558.98,4.9,81.6,34,23,Credit Card
+108,Valorant,Nintendo Switch,South America,Adventure,Canada,2025-01-15,2142,49.99,5%,101724.65,3.7,165.3,37,14,UPI
+109,Cyberpunk 2077,Xbox Series X,North America,Adventure,UK,2025-06-10,1584,29.99,15,40378.54,4.4,118.5,22,11,UPI
+110,GTA V,Nintendo Switch,Europe,Adventure,UK,2026-06-20,348,29.99,25,7827.39,4.3,59.8,21,22,Wallet
+111,Red Dead Redemption 2,PC,Asia,Shooter,India,2025-03-22,739,19.99,20,11818.09,4.9,88.0,27,5,UPI
+112,Hades II,,Oceania,Sandbox,Brazil,2025-06-10,2211,69.99,0,154747.89,4.3,157.9,21,20,PayPal
+113,Minecraft,PlayStation 5,South America,Action,Germany,2026-01-05,1683,29.99,10,45425.85,4.9,110.3,41,8,Debit Card
+114,Forza Horizon 5,PlayStation 5,Asia,Racing,Brazil,2025-06-10,2337,39.99,50,46728.32,4.5,140.3,45,17,PayPal
+115,Helldivers 2,PlayStation 5,Asia,Action,UK,2025-06-10,1969,69.99,20,110248.25,4.1,19.4,20,10,UPI
+116,The Witcher 3,PlayStation 5,South America,Action,Brazil,14/03/2026,910,69.99,50,31845.45,4.8,167.6,39,2,PayPal
+117,Fortnite,PC,Asia,RPG,USA,2026-01-05,116,29.99,0,3478.84,4.7,117.3,22,5,Debit Card
+118,EA Sports FC 25,PlayStation 5,South America,Sports,Japan,2025-09-18,22,9.99,0,219.78,3.5,150.5,40,4,UPI
+119,Cyberpunk 2077,PC,Europe,Sports,Germany,2025-06-10,1873,9.99,0,18711.27,4.7,90.5,14,21,UPI
+120,Fortnite,PC,Oceania,Shooter,USA,2026-06-20,986,49.99,25,36967.6,3.4,120.6,36,3,Debit Card
+121,Elden Ring,Nintendo Switch,Asia,Shooter,Canada,2025-06-10,67,29.99,0,2009.33,3.7,132.2,19,25,Credit Card
+122,Red Dead Redemption 2,Xbox Series X,Europe,Sandbox,  Australia  ,2025-01-15,1904,59.99,50,"$57,110.48",4.3,146.3,17,23,UPI
+123,Valorant,PC,Europe,Action,Germany,2026-01-05,1293,29.99,25,29082.8,5.0,98.2,29,2,UPI
+124,Hades II,PC,Asia,Shooter,Canada,2025-06-10,510,69.99,20,28555.92,3.9,72.6,41,13,Debit Card
+125,EA Sports FC 25,Nintendo Switch,,Sandbox,Japan,2026-03-14,2127,29.99,0,63788.73,4.5,15.1,24,18,Credit Card
+126,Cyberpunk 2077,Xbox Series X,Asia,Shooter,Canada,2026-06-20,1827,49.99,25,68498.8,3.3,80.5,41,2,UPI
+127,Call of Duty: MWIII,PC,North America,Racing,India,2025-03-22,1664,29.99,5,47408.19,4.9,26.6,41,2,PayPal
+128,Helldivers 2,Xbox Series X,Asia,Sports,UK,2025-06-10,2324,9.99,5%,22055.92,4.4,170.8,36,15,Wallet
+129,Red Dead Redemption 2,Nintendo Switch,Asia,Racing,UK,2026-01-05,1142,19.99,0,22828.58,3.1,34.3,37,18,UPI
+130,EA Sports FC 25,Nintendo Switch,Europe,Adventure,India,2026-09-12,1170,59.99,50,35094.15,3.4,25.3,17,15,Credit Card
+131,Helldivers 2,Xbox Series X,Asia,Racing,Germany,2025-03-22,266,49.99,15,11302.74,4.8,153.4,24,12,PayPal
+132,Helldivers 2,PlayStation 5,Europe,Sandbox,UK,2025-03-22,999999,9.99,20,16175.81,4.1,67.0,21,20,UPI
+133,Fortnite,Nintendo Switch,Oceania,Sports,Australia,2026-03-14,1678,69.99,0,117443.22,3.3,57.7,17,15,PayPal
+134,Forza Horizon 5,PlayStation 5,Europe,Sports,India,2026-03-14,2060,69.99,0,144179.4,4.7,93.7,32,6,PayPal
+135,Red Dead Redemption 2,Xbox Series X,North America,Shooter,India,2025-06-10,805,59.99,15,41048.16,3.3,55.2,18,17,PayPal
+136,Call of Duty: MWIII,Xbox Series X,Oceania,  Action  ,Germany,2026-06-20,117,9.99,0%,1168.83,4.9,139.0,29,21,Wallet
+137,Call of Duty: MWIII,PC,South America,Racing,Australia,2025-03-22,2235,29.99,15,56973.5,4.0,145.0,38,10,Credit Card
+138,Minecraft,Nintendo Switch,South America,Sports,Canada,2026-06-20,1903,19.99,20,30432.78,4.2,57.0,33,24,PayPal
+139,Helldivers 2,Xbox Series X,Oceania,Adventure,UK,2025-01-15,435,29.99,10,11741.08,3.9,48.9,28,5,UPI
+140,Fortnite,Nintendo Switch,Europe,Sandbox,India,2026-09-12,655,69.99,20,36674.76,4.9,130.1,25,25,Wallet
+141,The Witcher 3,Nintendo Switch,Asia,Sports,Canada,2025-01-15,95,9.99,25,711.79,4.0,174.0,26,19,Credit Card
+142,GTA V,Nintendo Switch,Oceania,Sandbox,Canada,2026-06-20,1928,29.99,0,57820.72,4.7,78.1,29,24,UPI
+143,Elden Ring,Nintendo Switch,North America,Adventure,Japan,2025-03-22,2302,19.99,20,36813.58,4.1,14.2,45,15,PayPal
+144,Cyberpunk 2077,Nintendo Switch,Asia,Sandbox,USA,2025-01-15,1389,49.99,20,,4.5,36.6,45,13,Credit Card
+145,Minecraft,Xbox Series X,South America,  Adventure  ,Japan,2026-03-14,1872,19.99,5,35550.22,3.7,110.7,23,13,Wallet
+146,Hades II,Nintendo Switch,Oceania,Shooter,Japan,2025-01-15,1946,69.99,0,136200.54,3.7,121.6,39,19,Wallet
+147,The Witcher 3,Xbox Series X,Oceania,Adventure,Germany,2025-01-15,933,59.99,0,55970.67,4.2,31.5,37,5,Wallet
+148,EA Sports FC 25,PC,Europe,Action,Australia,2025-01-15,1807,29.99,25,40643.95,3.3,124.6,39,17,PayPal
+149,Apex Legends,PlayStation 5,Oceania,Shooter,Canada,2026-01-05,1960,49.99,25,73485.3,3.6,32.0,34,18,Wallet
+150,The Witcher 3,PlayStation 5,Europe,Shooter,Germany,2026-09-12,2286,29.99,10,61701.43,4.9,176.8,31,23,UPI
+151,The Witcher 3,Xbox Series X,Oceania,Sandbox,,2026/01/05,1121,29.99,0,33618.79,4.1,98.2,38,12,Credit Card
+152,GTA V,PC,Asia,Sports,Japan,2025-06-10,1051,59.99,50,31524.75,3.4,149.2,30,18,Credit Card
+153,Baldur's Gate 3,PlayStation 5,Europe,Action,  India  ,2025-01-15,2176,19.99,10,39148.42,3.1,75.0,43,4,Wallet
+154,Forza Horizon 5,PlayStation 5,South America,Racing,USA,2025-03-22,1949,39.99,10,70146.46,4.5,52.4,31,21,Wallet
+155,Valorant,PC,Europe,Sports,USA,2026-01-05,721,9.99,25,5402.09,4.6,34.3,31,2,Wallet
+156,Baldur's Gate 3,PC,Asia,Shooter,Japan,2025-09-18,1862,59.99,50,55850.69,4.8,25.0,45,15,Credit Card
+157,Red Dead Redemption 2,PlayStation 5,South America,Racing,Germany,2025-06-10,1054,59.99,5,60067.99,3.0,61.3,31,19,Wallet
+158,Hades II,Nintendo Switch,South America,Adventure,Canada,2025-09-18,1344,9.99,25,10069.92,,34.1,21,16,Credit Card
+159,GTA V,Nintendo Switch,Europe,Sports,Canada,2025-09-18,1094,29.99,15,27887.7,4.2,103.5,29,21,Credit Card
+160,Call of Duty: MWIII,PC,South America,Shooter,Germany,2025-09-18,655,39.99,15,22264.43,4.4,115.3,31,12,PayPal
+161,The Witcher 3,PlayStation 5,South America,Racing,Germany,2025-03-22,2482,29.99,25,55826.38,4.4,164.4,26,25,Wallet
+162,The Witcher 3,Xbox Series X,North America,Adventure,Australia,2025-03-22,460,9.99,10,4135.86,4.1,27.8,33,17,PayPal
+163,EA Sports FC 25,Nintendo Switch,North America,Adventure,USA,2026-09-12,1825,69.99,0,127731.75,3.9,92.9,42,19,UPI
+164,EA Sports FC 25,,South America,Shooter,UK,"Jan 15, 2025",13,59.99,10,$701.88,4.2,9.1,35,23,Credit Card
+165,Forza Horizon 5,Nintendo Switch,North America,Shooter,Brazil,2026-09-12,1675,19.99,5,31809.09,4.5,176.1,39,12,Debit Card
+166,Fortnite,PC,Oceania,RPG,Germany,2025-01-15,1425,9.99,5,13523.96,5.0,71.4,21,24,Credit Card
+167,GTA V,Nintendo Switch,,Sports,UK,2025-01-15,2179,39.99,10,78424.39,3.5,63.0,30,7,Debit Card
+168,Baldur's Gate 3,PC,Europe,RPG,USA,2026-06-20,276,9.99,0,2757.24,3.9,121.3,16,8,Debit Card
+169,Valorant,PlayStation 5,North America,RPG,Canada,2025-09-18,2064,29.99,10,55709.42,4.6,131.9,33,19,UPI
+170,Forza Horizon 5,PlayStation 5,Oceania,  RPG  ,Brazil,2026-09-12,1694,29.99,15,"$43,182.60",3.1,170.8,24,21,Credit Card
+171,Red Dead Redemption 2,Nintendo Switch,Oceania,Shooter,Germany,2026-01-05,1706,39.99,5,64811.79,,33.9,43,8,PayPal
+172,Helldivers 2,Nintendo Switch,North America,Adventure,UK,2026-09-12,1691,39.99,5%,64241.94,3.8,46.6,34,21,UPI
+173,Cyberpunk 2077,PlayStation 5,North America,Shooter,Germany,2026-03-14,1545,59.99,0,92684.55,4.7,34.7,26,16,UPI
+174,Forza Horizon 5,PC,Europe,RPG,Germany,2026-03-14,481,59.99,50,14427.6,4.8,125.5,26,13,UPI
+175,Fortnite,Nintendo Switch,Oceania,Racing,Australia,2026-03-14,1472,29.99,15,37523.49,3.7,159.0,42,4,PayPal
+176,Red Dead Redemption 2,Xbox Series X,South America,Action,India,2025-09-18,2305,69.99,10,145194.25,4.5,3.9,39,10,UPI
+177,Valorant,Nintendo Switch,Oceania,Sandbox,India,2026-03-14,1007,39.99,20,32215.94,3.5,148.1,44,15,PayPal
+178,Minecraft,Nintendo Switch,Europe,Adventure,USA,2026-06-20,241,49.99,0,,4.7,14.3,16,25,PayPal
+179,Hades II,PlayStation 5,North America,Racing,Australia,2025-01-15,619,9.99,10,5565.43,4.0,67.8,43,22,Credit Card
+180,Apex Legends,Nintendo Switch,North America,Action,Brazil,"Jun 10, 2025",0,59.99,15,110600.56,4.1,52.3,45,23,Credit Card
+181,Forza Horizon 5,PC,Oceania,RPG,Canada,2026-06-20,988,19.99,15,16787.6,4.6,48.9,38,3,Debit Card
+182,Baldur's Gate 3,PlayStation 5,Europe,Shooter,USA,2025-06-10,331,59.99,0,,3.2,68.9,43,2,Credit Card
+183,The Witcher 3,Nintendo Switch,Asia,Adventure,USA,2025-03-22,391,49.99,0,19546.09,3.5,162.3,43,9,UPI
+184,Forza Horizon 5,PC,Europe,Sandbox,Japan,2025-06-10,1289,9.99,10,11589.4,4.2,135.7,38,3,Wallet
+185,Valorant,Nintendo Switch,Oceania,Shooter,Canada,2025-01-15,1573,69.99,5,104589.56,4.6,124.4,18,17,Credit Card
+186,Fortnite,PlayStation 5,North America,Shooter,Australia,2025-09-18,2479,69.99,25,130128.91,4.9,59.4,30,15,UPI
+187,Apex Legends,Nintendo Switch,South America,RPG,UK,2025-03-22,2400,59.99,25,107982.0,3.2,111.7,28,23,UPI
+188,,Nintendo Switch,Europe,Racing,Canada,2026-01-05,1596,29.99,20,38291.23,3.2,1.9,32,15,Credit Card
+189,Minecraft,PC,Europe,Sports,Canada,2026-06-20,1839,49.99,25,68948.71,3.2,17.0,18,20,Credit Card
+190,GTA V,Nintendo Switch,South America,Sandbox,India,2026-01-05,347,59.99,10,18734.88,4.1,31.4,37,6,UPI
+191,GTA V,Nintendo Switch,Europe,Action,Japan,2025-09-18,685,39.99,15,23284.18,3.8,87.7,17,12,Debit Card
+192,Baldur's Gate 3,PlayStation 5,South America,Action,Australia,2026-03-14,555,29.99,0,16644.45,4.9,60.5,37,11,Debit Card
+193,Hades II,PlayStation 5,Asia,Shooter,Japan,12/09/2026,2471,59.99,10,133411.76,4.0,32.8,38,11,Wallet
+194,Helldivers 2,PlayStation 5,Asia,Sports,India,2025-01-15,1149,69.99,25,60313.88,3.7,350.0,25,19,Debit Card
+195,EA Sports FC 25,PlayStation 5,South America,Sandbox,Australia,2025-06-10,1194,69.99,0,83568.06,4.6,143.4,39,22,UPI
+196,Valorant,Xbox Series X,Europe,Racing,Brazil,2026-06-20,1734,69.99,25,91021.99,3.1,178.3,43,19,Wallet
+197,Elden Ring,Xbox Series X,Oceania,Adventure,Brazil,2026-03-14,349,9.99,10,3137.86,4.3,64.5,15,19,Debit Card
+198,Cyberpunk 2077,PC,North America,Shooter,Canada,2025-01-15,910,49.99,10,40941.81,-1.0,71.0,45,5,Debit Card
+199,Cyberpunk 2077,Xbox Series X,South America,Action,Australia,2026-03-14,476,69.99,5,31649.48,3.7,62.4,26,17,Debit Card
+200,Cyberpunk 2077,Nintendo Switch,South America,Shooter,UK,2025-06-10,276,29.99,0,8277.24,4.6,21.6,34,21,PayPal
+201,Apex Legends,PlayStation 5,Oceania,RPG,India,2025-06-10,1356,49.99,25,50839.83,4.9,42.5,38,21,Debit Card
+202,Fortnite,PC,Oceania,RPG,  UK  ,2025-03-22,1842,49.99,25,69061.18,,127.1,26,9,Wallet
+203,Minecraft,,Asia,RPG,Brazil,2026-06-20,1875,9.99,15,15921.56,4.3,88.6,33,20,Wallet
+204,Cyberpunk 2077,Xbox Series X,Asia,Sandbox,UK,2025-06-10,1876,49.99,5,89092.18,4.6,127.4,32,20,UPI
+205,Cyberpunk 2077,PlayStation 5,Asia,Action,Brazil,2026-06-20,750,29.99,5,21367.88,4.0,75.9,21,19,PayPal
+206,The Witcher 3,PlayStation 5,Oceania,RPG,USA,2026-09-12,2006,29.99,5,57151.94,3.4,151.7,16,12,PayPal
+207,Valorant,Nintendo Switch,Oceania,Adventure,UK,2025-01-15,2028,39.99,50,40549.86,3.8,151.3,44,6,PayPal
+208,GTA V,PC,Asia,RPG,UK,2025-03-22,2203,29.99,5,62764.57,4.6,102.3,44,18,UPI
+209,Helldivers 2,Xbox Series X,Oceania,Sandbox,,2026-01-05,171,69.99,50,5984.14,4.1,178.2,19,24,Credit Card
+210,The Witcher 3,Xbox Series X,Asia,  Sandbox  ,Brazil,2025-06-10,357,39.99,0,14276.43,4.6,43.4,35,23,Wallet
+211,Minecraft,PlayStation 5,Europe,Sandbox,Japan,2026-01-05,244,49.99,20,9758.05,4.1,107.8,23,11,Wallet
+212,GTA V,PC,Europe,Sandbox,India,2026-03-14,1686,9.99,15,14316.67,4.7,0.0,21,8,PayPal
+213,Helldivers 2,Nintendo Switch,South America,RPG,UK,2026-06-20,2366,59.99,15,120645.89,4.3,68.2,17,21,Wallet
+214,EA Sports FC 25,Xbox Series X,Asia,Sports,Australia,2026-03-14,2000,29.99,0,59980.0,4.7,152.6,18,24,Credit Card
+215,Helldivers 2,Nintendo Switch,Europe,Sports,Australia,2026-03-14,868,39.99,15,29504.62,10.0,51.8,21,19,Credit Card
+216,Elden Ring,PC,South America,Action,India,2026-01-05,509,69.99,5,33843.66,3.9,1.1,40,7,PayPal
+217,Hades II,Xbox Series X,North America,Racing,Brazil,2026-01-05,1477,29.99,0,44295.23,3.7,162.8,23,2,PayPal
+218,Fortnite,PC,North America,Action,USA,2026-03-14,875,39.99,0,34991.25,3.3,41.5,41,1,Credit Card
+219,Hades II,Nintendo Switch,Europe,Sports,Canada,2026-01-05,291,19.99,25,4362.82,3.2,145.3,19,11,PayPal
+220,Fortnite,PlayStation 5,Europe,Action,Germany,2025-06-10,2173,49.99,0,108628.27,4.2,30.4,35,24,Debit Card
+221,  Baldur's Gate 3  ,Nintendo Switch,Europe,Action,India,2025-09-18,412,19.99,0,8235.88,4.2,69.7,40,11,UPI
+222,Call of Duty: MWIII,PC,Europe,Adventure,Germany,2026-06-20,2462,49.99,15,104614.07,4.6,124.6,32,7,UPI
+223,  Call of Duty: MWIII  ,PC,Europe,Sports,Canada,2025-06-10,1581,9.99,10,14214.77,4.0,107.3,13,12,Debit Card
+224,Hades II,Nintendo Switch,Asia,Adventure,UK,2025-01-15,708,69.99,50,24776.46,4.9,138.9,14,19,UPI
+225,Valorant,PC,North America,Sandbox,Brazil,2025-03-22,1631,49.99,15,69303.64,0.0,90.7,39,14,Wallet
+226,Apex Legends,PlayStation 5,Asia,Action,UK,2026-01-05,1270,9.99,10,11418.57,4.9,28.8,33,13,Debit Card
+227,EA Sports FC 25,PlayStation 5,North America,RPG,India,2025-03-22,354,39.99,0,14156.46,3.9,110.0,32,22,Credit Card
+228,EA Sports FC 25,PlayStation 5,North America,RPG,UK,2025-01-15,2034,29.99,15,,3.3,23.7,30,24,UPI
+229,Helldivers 2,Nintendo Switch,Asia,Adventure,India,2026-03-14,262,29.99,0%,7857.38,4.0,92.4,16,16,PayPal
+230,GTA V,PC,Oceania,Racing,Australia,2026-03-14,473,19.99,0,9455.27,3.1,155.5,28,2,Debit Card
+231,Forza Horizon 5,PlayStation 5,Europe,Sandbox,UK,2026-03-14,145,49.99,25,5436.41,3.4,45.4,33,9,Credit Card
+232,Apex Legends,PC,Europe,RPG,Japan,14/03/2026,2113,9.99,25,15831.65,3.1,84.3,31,25,Credit Card
+233,Apex Legends,Nintendo Switch,North America,Shooter,Australia,2025-09-18,822,29.99,15,20954.01,4.5,44.4,36,19,Wallet
+234,Helldivers 2,PlayStation 5,Europe,Action,USA,2026-06-20,1680,9.99,10,15104.88,4.1,114.8,13,11,UPI
+235,Cyberpunk 2077,PlayStation 5,Oceania,RPG,USA,2025-09-18,1720,39.99,0,68782.8,4.9,26.5,30,3,Wallet
+236,Fortnite,Xbox Series X,South America,Racing,USA,2026-06-20,348,49.99,0,17396.52,4.0,115.1,38,3,PayPal
+237,Valorant,Xbox Series X,Asia,Sandbox,Japan,2025-09-18,1291,69.99,25,67767.82,4.4,132.6,33,15,Credit Card
+238,Valorant,PlayStation 5,Oceania,Action,Canada,2025-09-18,637,9.99,5,,3.9,57.2,20,18,Debit Card
+239,GTA V,Nintendo Switch,Asia,Sandbox,Canada,2025-06-10,492,9.99,5,4669.33,4.6,55.5,15,7,Credit Card
+240,EA Sports FC 25,PlayStation 5,Asia,Sports,Australia,2025-09-18,2104,9.99,15,17866.12,3.5,178.3,14,13,Credit Card
+241,The Witcher 3,PC,Europe,Action,UK,2026-01-05,49,9.99,10,440.56,3.3,148.4,36,22,Credit Card
+242,Elden Ring,PC,Europe,Racing,USA,2026-09-12,1817,69.99,5,120813.24,3.2,152.7,34,4,Credit Card
+243,Minecraft,,South America,Sports,Japan,2026-09-12,121,39.99,25,3629.09,3.3,39.4,24,9,PayPal
+244,Elden Ring,PlayStation 5,Asia,Sports,Germany,2025-09-18,1688,49.99,50,42191.56,3.1,51.1,21,14,Wallet
+245,Helldivers 2,PC,South America,Sandbox,Japan,2025-06-10,1471,39.99,50,29412.65,3.7,102.3,33,13,Credit Card
+246,Red Dead Redemption 2,PlayStation 5,,Sandbox,UK,"Sep 18, 2025",1151,9.99,50,5749.24,4.1,138.3,27,6,PayPal
+247,GTA V,PC,Europe,Adventure,USA,2026-03-14,1591,29.99,5,45328.39,3.4,107.1,35,19,Wallet
+248,  Baldur's Gate 3  ,PlayStation 5,Oceania,RPG,Germany,2025-01-15,2017,49.99,15,,3.4,7.8,16,8,Wallet
+249,The Witcher 3,PC,Asia,Adventure,USA,2025-06-10,826,69.99,5,54921.15,3.7,32.8,33,2,Wallet
+250,,PlayStation 5,North America,Sandbox,UK,2026-03-14,2156,69.99,20,120718.75,4.9,67.9,38,19,UPI
+149,Apex Legends,PlayStation 5,Oceania,Shooter,Canada,2026-01-05,1960,49.99,25,73485.3,3.6,32.0,34,18,Wallet
+220,Fortnite,PlayStation 5,Europe,Action,  Germany  ,2025-06-10,2173,49.99,0,108628.27,4.2,30.4,35,24,Debit Card
+95,Red Dead Redemption 2,Xbox Series X,North America,Sandbox,Japan,2025-01-15,1142,49.99,10,51379.72,4.6,999.0,14,20,PayPal
+85,The Witcher 3,PlayStation 5,Asia,Action,UK,2025-09-18,1505,49.99,20,60187.96,3.1,50.4,20,15,Wallet
+4,Baldur's Gate 3,Xbox Series X,North America,Racing,Canada,2025-09-18,1882,49.99,0,94081.18,4.9,68.8,31,21,Credit Card
+122,Red Dead Redemption 2,Xbox Series X,Europe,Sandbox,Australia,2025-01-15,1904,59.99,50,57110.48,4.3,146.3,17,23,UPI
+98,Elden Ring,PC,Asia,Sports,Canada,2026-06-20,1737,39.99,50,34731.32,3.8,39.6,45,4,Credit Card
+237,Valorant,Xbox Series X,Asia,Sandbox,Japan,2025-09-18,1291,69.99,25,67767.82,4.4,132.6,33,15,Credit Card

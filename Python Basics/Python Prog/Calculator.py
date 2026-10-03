@@ -1,4 +1,3 @@
-
 while True:
    Num1 = float(input(" Enter the Number : "))
 #  Process = input(" Enter the Process (+,-,*,/) :")

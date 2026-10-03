@@ -1,0 +1,101 @@
+Sale_ID,Game,Genre,Platform,Region,Country,Customer_Age,Gender,Units_Sold,Unit_Price_USD,Revenue_USD,Payment_Method,Customer_Type,Game_Rating,Playtime_Hours,In_Game_Purchase,Refunded,Month,Year
+1001,Starfield,RPG,Xbox,North America,USA,21.0,Other,24,62.99,1511.76,Wallet,New,7.1,26.8,No,Yes,Jan,2024
+1002,Valorant,Shooter,PC,Europe,UK,31.0,Male,18,4.99,89.82,UPI,VIP,8.8,126.8,No,Yes,Mar,2026
+1003,Horizon Forbidden West,RPG,PS5,Asia,South Korea,20.0,Female,5,59.99,299.95,Credit Card,Returning,9.6,61.9,No,No,Jan,2026
+1004,The Last of Us Part I,Action,PS5,Australia,Australia,37.0,Female,13,69.99,909.87,Wallet,New,8.2,149.6,Yes,Yes,Nov,2024
+1005,Baldur's Gate 3,RPG,PC,Asia,India,44.0,Female,8,59.99,479.92,Debit Card,Returning,7.6,82.7,No,Yes,Nov,2025
+1006,Assassin's Creed Mirage,Action,PS5,North America,Mexico,32.0,Female,21,49.99,1049.79,PayPal,VIP,8.1,45.6,Yes,No,Jan,2024
+1007,Cyberpunk 2077,RPG,PC,Asia,Singapore,40.0,Female,9,49.99,449.91,Debit Card,VIP,7.0,169.8,No,No,Nov,2025
+1008,Minecraft,Sandbox,PC,Asia,Japan,,Other,8,20.99,167.92,UPI,Returning,8.1,135.0,Yes,Yes,Sep,2025
+1009,Grand Theft Auto V,Action,PC,North America,USA,20.0,Female,5,29.99,149.95,UPI,VIP,9.1,77.1,No,No,Sep,2024
+1010,Sea of Thieves,Adventure,Xbox,North America,Mexico,27.0,Female,18,35.99,647.82,Debit Card,Returning,9.0,62.6,Yes,No,Sep,2024
+1011,FIFA 25,Sports,PS5,North America,Mexico,42.0,Male,10,48.99,489.9,Wallet,VIP,8.4,29.2,Yes,No,Aug,2024
+1012,Red Dead Redemption 2,Action,PC,Asia,South Korea,20.0,Male,8,39.99,319.92,UPI,New,7.1,103.0,Yes,Yes,Nov,2025
+1013,NBA 2K25,Sports,PS5,Europe,France,35.0, male ,17,48.99,832.83,Debit Card,VIP,7.7,39.7,No,No,Nov,2026
+1014,God of War Ragnarök,Action,PS5,South America,Chile,18.0,Other,15,69.99,1049.85,Wallet,New,7.1,13.4,Yes,Yes,Feb,2026
+1015,Starfield,RPG,Xbox,North America,USA,25.0,Female,3,69.99,209.97,UPI,New,9.3,14.6,Yes,No,Apr,2025
+1016,Horizon Forbidden West,RPG,PS5,Europe,UK,45.0,Other,4,47.99,191.96,Credit Card,VIP,7.5,75.2,Yes,Yes,Jul,2026
+1017,Call of Duty MWIII,Shooter,PS5,North America,USA,23.0,Female,7,69.99,489.93,UPI,New,8.1,27.0,Yes,No,Sep,2024
+1018,Cyberpunk 2077,RPG,PC,Australia,Australia,24.0,Female,3,49.99,149.97,Credit Card,New,6.8,88.4,No,Yes,Jul,2025
+1019,The Last of Us Part I,Action,PS5,Asia,Singapore,24.0,Female,23,48.99,1126.77,Debit Card,New,,88.6,Yes,No,Jan,2024
+1020,Forza Horizon 5,Racing,Xbox,South America,Chile,45.0,Male,17,59.99,1019.83,Credit Card,VIP,6.4,92.4,Yes,Yes,Jul,2024
+1021,Forza Horizon 5,Racing,Xbox,Europe,UK,34.0,Female,20,59.99,1199.8,PayPal,New,7.7,105.9,No,Yes,May,2025
+1022,Minecraft,Sandbox,PC,Asia,Singapore,36.0,Male,11,29.99,329.89,Credit Card,VIP,6.2,112.6,Yes,No,Mar,2025
+1023,Grand Theft Auto V,Action,PC,Europe,France,27.0,Other,10,29.99,299.9,Wallet,New,7.8,98.7,No,Yes,Mar,2025
+1024,Red Dead Redemption 2,Action,PC,North America,Mexico,40.0,Female,18,39.99,719.82,Debit Card,VIP,7.2,109.7,No,No,May,2024
+1025,Grand Theft Auto V,Action,PC,South America,Argentina,26.0,Male,2,29.99,59.98,UPI,VIP,7.4,25.3,No,Yes,Feb,2024
+1026,Assassin's Creed Mirage,Action,PS5,Europe,UK,19.0,Female,12,34.99,419.88,PayPal,New,8.2,78.5,No,Yes,Nov,2024
+1027,Sea of Thieves,Adventure,Xbox,North America,Canada,37.0,Other,25,27.99,699.75,Debit Card,New,9.4,74.3,Yes,Yes,Jul,2024
+1028,The Witcher 3,RPG,PC,europe,Singapore,21.0,Female,22,39.99,879.78,Credit Card,Returning,7.2,142.2,Yes,Yes,Aug,2025
+1029,Apex Legends,Battle Royale,PC,Europe,Germany,45.0,Male,1,29.99,29.99,PayPal,Returning,6.9,60.4,No,No,Jan,2024
+1030,Fortnite,Battle Royale,PC,Europe,France,43.0,Female,2,0.0,0.0,UPI,VIP,8.3,63.5,Yes,No,Oct,2024
+1031,Fortnite,Battle Royale,PC,North America,Mexico,39.0,Other,14,0.0,0.0,Debit Card,Returning,8.1,145.6,No,Yes,Nov,2025
+1032,Halo Infinite,Shooter,Xbox,Asia,India,28.0,Female,24,53.99,1295.76,PayPal,VIP,8.0,120.7,Yes,Yes,Jul,2026
+1033,Spider-Man 2,Action,PS5,Europe,France,24.0,Female,13,48.99,636.87,Wallet,VIP,9.2,56.1,No,No,Aug,2025
+1034,Sea of Thieves,Adventure,Xbox,Europe,Spain,39.0,Other,24,39.99,959.76,Wallet,Returning,8.6,52.5,Yes,Yes,Nov,2025
+1035,Counter-Strike 2,Shooter,PC,Europe,,45.0,Male,1,0.0,0.0,UPI,Returning,7.1,86.6,Yes,No,Aug,2025
+1036,Counter-Strike 2,Shooter,PC,Europe,UK,43.0,Other,25,0.0,0.0,Wallet,Returning,9.0,41.0,Yes,Yes,Feb,2025
+1037,Minecraft,Sandbox,PC,South America,Chile,32.0,Other,17,20.99,356.83,Wallet,Returning,8.3,171.1,No,Yes,Dec,2025
+1038,The Last of Us Part I,Action,PS5,Asia,Japan,38.0,Male,21,62.99,1322.79,PayPal,Returning,9.0,94.8,Yes,No,Apr,2025
+1039,Call of Duty MWIII,Shooter,PS5,Asia,India,40.0,Male,5,69.99,349.95,Credit Card,Returning,7.0,125.5,No,No,Sep,2025
+1040,Horizon Forbidden West,RPG,PS5,North America,USA,40.0,Male,14,47.99,671.86,Wallet,Returning,9.5,106.0,No,Yes,Jun,2025
+1041,Baldur's Gate 3,RPG,PC,South America,Argentina,33.0,Male,18,41.99,755.82,PayPal,Returning,9.1,161.8,No,Yes,Jul,2025
+1042,Sea of Thieves,Adventure,Xbox,South America,Chile,35.0,Male,6,31.99,191.94,UPI,VIP,9.5,176.6,Yes,Yes,Nov,2025
+1043,Minecraft,Sandbox,PC,South America,Brazil,28.0,Female,2,26.99,53.98,UPI,Returning,7.6,39.7,No,No,Feb,2025
+1044,Elden Ring,RPG,PC,Australia,Australia,38.0,Male,12,59.99,719.88,Credit Card,New,8.5,141.1,Yes,Yes,Oct,2024
+1045,Counter-Strike 2,Shooter,PC,Europe,Spain,40.0,Female,22,0.0,0.0,Credit card,New,8.2,40.8,Yes,Yes,May,2024
+1046,Forza Horizon 5,Racing,Xbox,North America,Canada,20.0,Other,19,47.99,911.81,Debit Card,New,7.6,129.3,No,Yes,Oct,2024
+1047,God of War Ragnarök,Action,PS5,Australia,New Zealand,18.0,Female,22,62.99,1385.78,UPI,New,6.4,117.3,No,No,Nov,2025
+1048,Assassin's Creed Mirage,Action,PS5,Europe,Spain,43.0,Other,6,34.99,209.94,UPI,Returning,9.7,50.1,No,No,Jun,2024
+1049,Grand Theft Auto V,Action,PC,Asia,Singapore,28.0,Male,8,23.99,191.92,UPI,Returning,8.3,120.9,Yes,No,Apr,2025
+1050,Fortnite,Battle Royale,PC,Asia,South Korea,34.0,Male,20,29.99,599.8,Credit Card,New,9.4,100.9,No,No,Sep,2024
+1051,Assassin's Creed Mirage,Action,PS5,South America,Chile,27.0,Male,23,39.99,919.77,UPI,VIP,7.8,5.1,Yes,No,Nov,2026
+1052,God of War Ragnarök,Action,PS5,South America,Chile,28.0,Female,17,62.99,1070.83,UPI,Returning,7.7,134.8,No,No,Apr,2024
+1053,Resident Evil 4,Horror,PS5,Europe,France,24.0,Male,4,41.99,167.96,UPI,Returning,9.6,124.8,No,Yes,Apr,2025
+1054,Counter-Strike 2,Shooter,PC,Asia,Japan,19.0,Male,10,0.0,0.0,Wallet,Returning,8.7,24.5,Yes,No,Feb,2024
+1055,Forza Horizon 5,Racing,Xbox,Asia,Singapore,26.0,Female,16,47.99,767.84,Credit Card,New,7.4,173.9,No,No,Feb,2026
+1056,Starfield,RPG,Xbox,North America,USA,25.0,Male,5,48.99,244.95,Wallet,Returning,9.6,17.2,Yes,No,Aug,2025
+1057,Apex Legends,Battle Royale,PC,Australia,New Zealand,41.0,Male,10,19.99,199.9,,VIP,8.4,110.5,Yes,No,Nov,2024
+1058,The Witcher 3,RPG,PC,Europe,Germany,40.0,Other,18,39.99,719.82,UPI,Returning,6.8,74.7,Yes,Yes,May,2026
+1059,Apex Legends,Battle Royale,PC,South America,Brazil,38.0,Other,22,4.99,109.78,Debit Card,Returning,9.5,142.2,Yes,Yes,Nov,2024
+1060,Fortnite,Battle Royale,PC,Europe,UK,44.0,Other,2,4.99,9.98,PayPal,Returning,9.1,107.9,Yes,No,Dec,2025
+1061,Assassin's Creed Mirage,Action,PS5,South America,Argentina,19.0,Female,17,34.99,594.83,PayPal,VIP,8.0,16.3,No,Yes,Feb,2024
+1062,Sea of Thieves,Adventure,Xbox,Australia,Australia,23.0,Female,25,35.99,899.75,Wallet,VIP,8.3,137.8,No,No,Mar,2026
+1063,Horizon Forbidden West,RPG,PS5,South America,Brazil,21.0,Male,16,53.99,863.84,PayPal,Returning,7.7,59.1,No,No,Nov,2025
+1064, Minecraft ,RPG,PC,Australia,Australia,42.0,Female,15,59.99,899.85,Wallet,New,7.3,59.5,No,No,Jan,2024
+1065,FIFA 25,Sports,PS5,Asia,Singapore,35.0,Male,21,55.99,1175.79,PayPal,Returning,8.9,38.2,No,Yes,Jan,2026
+1066,Halo Infinite,Shooter,Xbox,Europe,Germany,25.0,Male,10,41.99,419.9,UPI,New,6.2,74.6,Yes,No,Dec,2025
+1067,FIFA 25,Sports,PS5,Asia,Singapore,30.0,Male,16,55.99,895.84,Wallet,VIP,7.1,100.1,Yes,Yes,May,2025
+1068,Call of Duty MWIII,Shooter,PS5,Australia,New Zealand,36.0,Other,1,62.99,62.99,UPI,New,8.8,151.1,No,No,Jun,2025
+1069,NBA 2K25,Sports,PS5,Australia,New Zealand,25.0,Other,15,62.99,944.85,UPI,New,9.3,176.6,No,Yes,Jun,2026
+1070,Gran Turismo 7,Racing,PS5,South America,Argentina,34.0,Other,22,69.99,1539.78,PayPal,New,8.0,8.6,No,Yes,Sep,2025
+1071,Elden Ring,RPG,PC,Europe,Spain,26.0,Female,21,59.99,1259.79,Wallet,VIP,6.5,141.1,No,Yes,Jun,2026
+1072,NBA 2K25,Sports,PS5,South America,Argentina,20.0,Male,21,55.99,1175.79,PayPal,New,9.3,8.4,Yes,No,Feb,2026
+1073,Assassin's Creed Mirage,Action,PS5,North America,Canada,43.0,Male,6,44.99,269.94,PayPal,Returning,9.5,10.2,No,No,Mar,2024
+1074,FIFA 25,Sports,PS5,South America,Chile,45.0,Female,22,69.99,1539.78,Wallet,VIP,6.8,16.1,Yes,No,Oct,2024
+1075,Counter-Strike 2,Shooter,PC,South America,Chile,43.0,Female,9,14.99,134.91,PayPal,VIP,7.1,3.7,Yes,Yes,Aug,2025
+1076,Forza Horizon 5,Racing,Xbox,Asia,Singapore,30.0,Female,23,53.99,1241.77,Credit Card,New,7.8,55.8,No,No,Oct,2025
+1077,Assassin's Creed Mirage,Action,PS5,Asia,India,39.0,Other,22,39.99,879.78,Credit Card,VIP,7.2,102.7,No,No,Apr,2026
+1078,God of War Ragnarök,Action,PS5,Europe,Germany,39.0,Other,20,62.99,1259.8,Debit Card,VIP,8.6,130.3,Yes,Yes,May,2025
+1079,Cyberpunk 2077,RPG,PC,Australia,New Zealand,41.0,Female,24,49.99,1199.76,Debit Card,New,6.5,54.5,Yes,No,Sep,2026
+1080,Fortnite,Battle Royale,PC,Europe,France,21.0,Female,16,9.99,159.84,Credit Card,New,8.9,62.3,Yes,No,Sep,2025
+1081,Grand Theft Auto V,Action,PC,South America,Brazil,41.0,Other,9,20.99,188.91,PayPal,VIP,6.6,67.6,No,No,Feb,2026
+1082,Counter-Strike 2,Shooter,PC,South America,Brazil,38.0,Male,20,19.99,399.8,UPI,VIP,7.4,,No,No,Feb,2024
+1083,Cyberpunk 2077,RPG,PC,North America,Canada,22.0,Female,16,49.99,799.84,UPI,Returning,6.5,159.9,No,Yes,Jul,2026
+1084,Red Dead Redemption 2,Action,PC,South America,Chile,32.0,Female,14,35.99,503.86,Debit Card,Returning,6.3,68.0,Yes,No,Sep,2026
+1085,God of War Ragnarök,Action,PS5,North America,Canada,44.0,Female,9,69.99,629.91,Credit Card,VIP,9.7,170.9,Yes,Yes,Jan,2025
+1086,Counter-Strike 2,Shooter,PC,Europe,Germany,45.0,Male,3,19.99,59.97,PayPal,New,6.9,40.4,Yes,No,Mar,2024
+1087,NBA 2K25,Sports,PS5,Asia,Japan,43.0,Male,4,69.99,279.96,Wallet,Returning,6.7,65.8,Yes,Yes,May,2024
+1088,Minecraft,Sandbox,PC,South America,Chile,34.0,Other,4,29.99,119.96,Credit Card,Returning,7.9,140.5,Yes,Yes,Dec,2026
+1089,FIFA 25,Sports,PS5,Asia,Singapore,30.0,Female,21,69.99,1469.79,Credit Card,Returning,6.4,87.3,No,Yes,Feb,2025
+1090,Halo Infinite,Shooter,Xbox,Europe,UK,40.0,Female,5,53.99,269.95,UPI,VIP,8.4,106.2,No,No,Sep,2026
+1091,Horizon Forbidden West,RPG,PS5,North America,Mexico,32.0,Male,4,41.99,167.96,UPI,Returning,8.8,40.3,No,No,Jul,2026
+1092,Red Dead Redemption 2,Action,PC,Asia,Singapore,33.0,Male,11,35.99,395.89,Credit Card,returning,7.5,29.2,Yes,No,Feb,2026
+1093,Resident Evil 4,Horror,PS5,Asia,Japan,28.0,Other,18,59.99,1079.82,Credit Card,Returning,8.3,102.0,No,No,Dec,2024
+1094,Apex Legends,Battle Royale,PC,Australia,New Zealand,39.0,Female,12,0.0,0.0,Debit Card,New,8.3,39.9,No,No,Feb,2025
+1095,Forza Horizon 5,Racing,Xbox,Europe,Spain,18.0,Other,18,41.99,755.82,PayPal,New,8.4,116.4,Yes,No,Dec,2025
+1096,Call of Duty MWIII,Shooter,PS5,Asia,India,22.0,Other,6,69.99,419.94,Credit Card,New,8.2,73.3,Yes,No,Jul,2025
+1097,Call of Duty MWIII,Shooter,PS5,Europe,France,20.0,Male,10,62.99,629.9,Debit Card,New,9.0,103.0,Yes,Yes,May,2025
+1098,Sea of Thieves,Adventure,Xbox,South America,Argentina,34.0,Male,20,31.99,639.8,PayPal,Returning,7.7,40.4,Yes,No,Nov,2026
+1099,Forza Horizon 5,Racing,Xbox,South America,Chile,37.0,Male,22,53.99,1187.78,Credit Card,New,6.4,72.4,No,Yes,Mar,2025
+1100,Apex Legends,Battle Royale,PC,Asia,India,30.0,Other,1,14.99,14.99,Debit Card,VIP,8.9,33.3,No,Yes,Jul,2026
